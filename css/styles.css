@@ -1,0 +1,172 @@
+#title{
+  background-color: #ff4c68;
+  color:#fff;
+}
+#features
+{
+  position: relative;
+  background-color: #fff;
+}
+#cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+}
+#footer{
+  background-color: white;
+  text-align: center;
+}
+h1
+{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+h2
+{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3
+{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+}
+.container-fluid
+{
+  padding: 3% 15% 7%;
+}
+.navbar{
+  padding:0 0 4.5rem 0;
+}
+.navbar-brand
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.download-button
+{
+  margin:5% 3% 5% 0;
+}
+.imeege
+{
+  width: 100%;
+  transform: rotate(-25deg);
+  position: absolute;
+  right: 10%;
+}
+.logoImeege{
+  width:5em;
+}
+.ekon
+{
+  color: #ef8172;
+  font-size: 4rem;
+}
+:hover.ekon
+{
+  color:#ff4c68;
+}
+.pad1{
+  margin-bottom: 1.4rem;
+}
+.col-lg-4
+{
+  text-align: center;
+}
+.hach
+{
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.pee
+{
+    color:#8f8f8f;
+    width: 230px;
+    margin:auto;
+}
+#testimonials
+{
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo
+{
+  width:   15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+}
+.pricing-col
+{
+  padding: 3% 2%;
+}
+@media (max-width:1028px)
+{
+  .imeege
+  {
+    position: static;
+    transform: rotate(0);
+  }
+  .container-fluid
+  {
+    text-align: center;
+  }
+}
+.h
+{
+  padding: 0% 20%;
+  color: #fff;
+}
+.buton1{
+  margin:0 1% 5% 1%;
+}
+.pi{
+  padding: 1% 7% 7%;
+  color: #8f8f8f;
+  font-family: 'Montserrat';
+  font-weight:500;
+}
+.but{
+  padding: 7% 45% 0.5%;
+  text-align: center;
+
+}
+.but1{
+  font-size: 0.78rem;
+  text-align: center;
+}
+.qq{
+  padding:3% 0%;
+}
